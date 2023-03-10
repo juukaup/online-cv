@@ -46,15 +46,40 @@ sidebar:
 
     interests:
       title: Interests
-      info:
-        - item: Badminton
+      info:        
+        - item: Machine Learning, Data Science, ML Architecture
+          link:
+          
+        - item: Badminton, Martial Arts
           link:
 
-        - item: Reading
+        - item: Learning new skills
           link:
 
-        - item: Art
+        - item: Art, music and reading
           link:
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python & Pandas
+        level: 98%
+
+      - name: SQL & Snowflake
+        level: 98%
+
+      - name: Statistics, Time Series modeling & analysis
+        level: 98%
+      
+      - name: AWS & MLOps
+        level: 88%
+      
+      - name: TensorFlow, Keras, Machine Learning, PyTorch
+        level: 85%
+ 
+      - name: Data Engineering
+        level: 75%
 
 career-profile:
     title: Career Profile
@@ -118,30 +143,7 @@ certificates:
       time: 02/2023
       company: link
       details: |
-      
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Pandas
-        level: 98%
-
-      - name: SQL & Snowflake
-        level: 98%
-
-      - name: Statistics, Time Series modeling & analysis
-        level: 98%
-      
-      - name: AWS & MLOps
-        level: 88%
-      
-      - name: TensorFlow, Keras, Machine Learning, PyTorch
-        level: 85%
- 
-      - name: Data Engineering
-        level: 75%
+     
         
-
-
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
