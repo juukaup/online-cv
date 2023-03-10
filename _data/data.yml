@@ -135,12 +135,12 @@ experiences:
 certificates:        
    title: Certificates
    info:
-    - job-title: AWS Certified Cloud Practitioner
+    - degree: AWS Certified Cloud Practitioner
       time: 09/2022
       company: Amazon Web Services
       link: link-to-badge
       details: |
-    - job-title: AWS Certified Machine Learning - Specialty
+    - degree: AWS Certified Machine Learning - Specialty
       time: 02/2023
       company: Amazon Web Services
       link: link-to-badge
