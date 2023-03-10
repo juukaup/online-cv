@@ -9,7 +9,7 @@
 
     {% for certificate in certificates.info %}
     <div class="item">
-      <h4 class="name">{{ certificate.name }}</h4>
+      <h4 class="job-title">{{ certificate.name }}</h4>
       <h5 class="meta">{{ certificate.company }}</h5>
       <div class="time">{{ certificate.time }}</div>
       <div class="link">{{ certificate.link }}</div>
@@ -34,11 +34,11 @@
       <div class="meta">
 
         <div class="upper-row">
-          <h3 class="name">{{ certificate.name }}</h3>
+          <h3 class="job-title">{{ certificate.name }}</h3>
           <div class="time">{{ certificate.time }}</div>
         </div><!--//upper-row-->
 
-        <div class="company">{{ certificate.company }}</div>
+        <h3 class="company">{{ certificate.company }}</h3>
         <div class="link">{{ certificate.link }}</div>
       </div><!--//meta-->
 
