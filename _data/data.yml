@@ -135,13 +135,15 @@ experiences:
 certificates:        
    title: Certificates
    info:
-    - role: AWS Certified Cloud Practitioner
+    - name: AWS Certified Cloud Practitioner
       time: 09/2022
-      company: link
+      company: Amazon Web Services
+      link: 
       details: |
-    - role: AWS Certified Machine Learning - Specialty
+    - name: AWS Certified Machine Learning - Specialty
       time: 02/2023
-      company: link
+      company: Amazon Web Services
+      link:
       details: |
      
         
