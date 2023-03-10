@@ -138,12 +138,12 @@ certificates:
     - name: AWS Certified Cloud Practitioner
       time: 09/2022
       company: Amazon Web Services
-      link: 
+      link: link-to-badge
       details: |
     - name: AWS Certified Machine Learning - Specialty
       time: 02/2023
       company: Amazon Web Services
-      link:
+      link: link-to-badge
       details: |
      
         
