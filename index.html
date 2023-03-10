@@ -12,7 +12,9 @@ layout: default
 
 {% include experiences.html %}
 
-{% include certificates.html %}
+{% unless site.data.data.sidebar.certificates %}
+  {% include certificates.html %}
+{% endunless %}
 
 {% include projects.html %}
 
